@@ -9,11 +9,6 @@ package javaapplication6;
  *
  * @author J
  */
-public class NewClass {
-      /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        System.out.print("hihi");
-    }
+public class NewClass1 {
+    
 }

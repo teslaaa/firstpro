@@ -14,6 +14,6 @@ public class NewClass {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.print("this i ra");
+        System.out.print("this i rankn,");
     }
 }

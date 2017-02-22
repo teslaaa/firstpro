@@ -13,6 +13,7 @@ public class JavaApplication6 {
 
     /**
      * @param args the command line arguments
+     * Hiya bruv
      */
     public static void main(String[] args) {
         System.out.print("hihihi12367 hi bii");
